@@ -73,3 +73,4 @@ When a client disconnects (either by closing the console or exiting), the server
 
 **OUTPUT**:
 # ClientSide
+![Image](https://github.com/user-attachments/assets/f5302187-7796-4019-a7c5-e0d8dd7694fa)
